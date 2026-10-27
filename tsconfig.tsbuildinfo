@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/shims-vue.d.ts","./src/app.vue","./src/components/appheader.vue","./src/components/categoryfilter.vue","./src/components/pagination.vue","./src/components/productcard.vue","./src/components/productlist.vue","./src/components/searchbar.vue"],"version":"6.0.3"}
